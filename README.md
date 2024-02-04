@@ -1,7 +1,9 @@
 Throughout this project, we mostly use modules to make a program simple and efficient.
 
 Most of the modules or not pre-installed in python however we can manually install with the pip command.
+
 How to install module?
+
 To answer this, we assume that you're using a unix based operating system such as, any linux distro or mac, in that case you can simply open the terminal and type the following command
 
 pip install 'module name'
