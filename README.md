@@ -2,10 +2,10 @@ Throughout this project, we mostly use modules to make a program simple and effi
 
 Most of the modules or not pre-installed in python however we can manually install with the pip command.
 How to install module?
-To answer this, we assume that you're using a unix based operating system such as, any linux distro or mac, in that case you can simply open the terminal and type the following
+To answer this, we assume that you're using a unix based operating system such as, any linux distro or mac, in that case you can simply open the terminal and type the following command
 pip install 'module name'
 
-To install directly in Jupyter notebook typ the following
+To install directly in Jupyter notebook type the following
 !pip install 'module name'
 
 In the Windows system you can simply run the same command as in the unix system in cmd, however if you're installed in a directory other than the C drive, you need to assign the environmental path and open the cmd in the installed location and run the command.
