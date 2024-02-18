@@ -1,4 +1,4 @@
-Throughout this project, we mostly use modules to make a program simple and efficient.
+Throughout this project, we mostly use many python modules to make a program simple and efficient.
 
 Most of the modules or not pre-installed in python however we can manually install with the pip command.
 
